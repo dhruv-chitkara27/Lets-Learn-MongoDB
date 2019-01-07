@@ -6,4 +6,4 @@ Pull Requests are welcome :)
 How to Run it ?
   -> Required Packages
           ->Mongoose
-          ->
+          ->homebrew
